@@ -1,3 +1,4 @@
-[submodule "movie-app"]
-	path = movie-app
-	url = https://github.com/davidhalasz/movie-app.git
+
+[submodule "movie"]
+	path = movie
+	url = https://github.com/davidhalasz/movie.git
